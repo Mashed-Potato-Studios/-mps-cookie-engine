@@ -1,0 +1,1 @@
+export { IFighter, StartMatchOptions } from "./fighter"
